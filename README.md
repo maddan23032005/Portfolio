@@ -98,12 +98,3 @@ A computer vision solution that performs real-time waste classification using YO
 
 My goal is to build impactful technology solutions that combine Artificial Intelligence, software engineering, and scalable system design to solve meaningful real-world problems.
 
-## Contact
-
-Feel free to connect with me for collaborations, projects, internships, and discussions related to AI, Machine Learning, Full-Stack Development, and Emerging Technologies.
-
-Email: your-email@example.com
-
-LinkedIn: Your LinkedIn Profile
-
-GitHub: Your GitHub Profile
